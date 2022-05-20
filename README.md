@@ -1,11 +1,11 @@
 
 # Rock-Paper-Scissors GUI
 
-This is a R/P/S game I made while learning JAVA. Not much but hey, everybody started somewhere!
+This is a little more advanced version of my R/P/S game with and additional Lizard-Spock module! 
 
 ## Demo
 
-demo HERE
+![lizspock](https://user-images.githubusercontent.com/97113363/169516404-318247c3-8044-493b-a699-195d197b3072.gif)
 
 
 ## Run Locally
@@ -13,11 +13,11 @@ demo HERE
 Go to the .jar file directory
 
 ```bash
-  \out\artifacts\TemperatureConverter_jar
+  \out\artifacts\RPS_GUI_jar
 ```
 
 Run
 
 ```bash
-  TemperatureConverter_jar
+  RPS_GUI.jar
 ```
