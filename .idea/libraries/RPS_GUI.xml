@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RPS_GUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/RPS_GUI_jar/RPS_GUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
